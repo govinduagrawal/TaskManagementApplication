@@ -1,11 +1,4 @@
-# Task_Management_OOP
-This is a task management system in PHP ,Javascript and Ajax.This task management system script contains two sections :-
- 1) Admin   --> Admin can create new user,new task,give tasks to the users, can enable and disable task,user,comment. 
---> Admin can block user --> Admin can comment on tasks and can delete or hide the tasks.
- 2)User --> User can give task to each other 
---> Users can update their profile.
- --> Users can comment on each other's tasks. 
- and there is no registration for admin,and users can be created by admin only for creating admin user 
-we have to create manualy in database. 
-admin-username : admin@gmail.com ,password :admin123
-user-username : priyanka@gmail.com,password :123
+This is a task management system in PHP ,Javascript and Ajax.This task management system script contains three sections :- 1)cto -->cto can create new manager,assign department to manager,view all task from manager to user,enable and disable task,update for all manager profile ,can delete or hide the tasks.
+
+2)Manager(admin) --> Manager(admin) can create new user,new task,assign tasks to the users, can enable and disable task,user,comment. --> Admin can block user --> Admin can comment on tasks and can delete or hide the tasks.
+3)User(team) --> User(team) can give task to each other --> Users can update their profile. --> Users can comment on each other's tasks. and there is no registration for admin,and users can be created by admin only for creating admin user we have to create manualy in database. cto-ctoname:sanjay@gmail.com,password:123 Manager(admin)-username : govind@gmail.com ,password :123 Team(user)-username : ram@gmail.com,password :123
